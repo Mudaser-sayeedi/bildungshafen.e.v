@@ -20,7 +20,7 @@
       "items": [
         {
           "name": "Köfte Burger",
-          "desc": "Saftige Hacksteak-Köfte mit frischem Gemüse im weichen Burgerbrötchen.",
+          "desc": "",
           "price": 8.00,
           "image": "images/koefte-burger.jpg"
         },
