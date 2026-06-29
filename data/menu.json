@@ -3,8 +3,8 @@
     "edition": "33.",
     "title": "Interkulturelles Stadtfest",
     "organizer": "Bildungshafen e.V.",
-    "tagline": "Gemeinsam genießen – Speisen aus aller Welt",
-    "note": "Alle Preise in Euro. Änderungen vorbehalten.",
+    "tagline": "Gemeinsam genießen und entspannen",
+    "note": "Alle Preise in Euro.",
     "social": {
       "instagram": "https://www.google.com/url?q=https%3A%2F%2Fwww.instagram.com%2Fbildungshafen_e.v%3Figsh%3DMThhYmJ5ZXF0bHUyNg%3D%3D&sa=D&sntz=1&usg=AOvVaw2MRytqR7FpjMe6CTXU2c1T",
       "facebook": "https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fbildungshafen2013&sa=D&sntz=1&usg=AOvVaw1uZYyO02fNqvGKcU62Pg12",
@@ -16,79 +16,109 @@
       "id": "speisen",
       "name": "Speisen",
       "emoji": "🍽️",
-      "subtitle": "Herzhafte türkische & mediterrane Spezialitäten",
+      "subtitle": "",
       "items": [
         {
-          "name": "Köfte Burger",
+          "name": "Köfte Ekmek",
           "desc": "Saftige Hacksteak-Köfte mit frischem Gemüse im weichen Burgerbrötchen.",
           "price": 8.00,
-          "image": "images/koefte-burger.jpg"
+          "image": "images/Köfte Burger.jpg"
+        },
+        {
+          "name": "Köfte Double",
+          "desc": "Saftige Hacksteak-Köfte mit frischem Gemüse im weichen Burgerbrötchen.",
+          "price": 12.00,
+          "image": "images/Double kofte.jpg"
+        },
+        {
+          "name": "Köfte Teller",
+          "desc": "Saftige Hacksteak-Köfte mit frischem Gemüse mit Pommes.",
+          "price": 14.00,
+          "image": "images/Kofte teller.jpg"
         },
         {
           "name": "Sosis Burger",
           "desc": "Würzige, gegrillte Sucuk-Wurst im Brötchen – ein herzhafter Klassiker.",
           "price": 8.00,
-          "image": "images/sosis-burger.jpg"
+          "image": "images/Sosis Burger.jpg"
         },
         {
           "name": "Lahmacun",
           "desc": "Dünner Teigfladen mit würzigem Hackfleisch, frischem Salat & Zitrone.",
           "price": 5.00,
-          "image": "images/lahmacun.jpg"
+          "image": "images/Lahmacun.jpg"
         },
         {
           "name": "Gözleme (Kartoffeln)",
           "desc": "Hauchdünnes Teigfladenbrot, gefüllt mit fein gewürzten Kartoffeln.",
-          "price": 5.00,
-          "image": "images/goezleme-kartoffeln.jpg"
+          "price": 4.00,
+          "image": "images/gözleme.jpg"
         },
         {
           "name": "Gözleme (Spinat)",
           "desc": "Hauchdünnes Teigfladenbrot mit herzhafter Spinatfüllung.",
-          "price": 5.00,
-          "image": "images/goezleme-spinat.jpg"
+          "price": 4.00,
+          "image": "images/Ispanakli gozleme.jpg"
         },
         {
           "name": "Gözleme (Käse)",
           "desc": "Hauchdünnes Teigfladenbrot mit cremiger, geschmolzener Käsefüllung.",
-          "price": 5.00,
-          "image": "images/goezleme-kaese.jpg"
+          "price": 4.00,
+          "image": "images/Peynirli gozleme.jpg"
         },
         {
           "name": "Pommes",
           "desc": "Knusprige, goldene Pommes frites – frisch frittiert.",
-          "price": 5.00,
-          "image": "images/pommes.jpg"
-        },
-        {
-          "name": "Kısır",
-          "desc": "Frischer Bulgursalat mit Tomatenmark, Petersilie & Granatapfelsirup.",
-          "price": 5.00,
-          "image": "images/kisir.jpg"
+          "price": 4.00,
+          "image": "images/Pommes.jpg"
         },
         {
           "name": "Çiğ Köfte",
           "desc": "Würzige, vegane Bulgur-Bällchen nach traditionellem Rezept – fein scharf.",
           "price": 5.00,
-          "image": "images/cig-koefte.jpg"
+          "image": "images/Cig köfte.jpg"
         },
         {
-          "name": "Sarma",
+          "name": "Sarma - 5 Stück",
           "desc": "Zart gefüllte Weinblätter mit Reis & frischen Kräutern (pro Stück).",
-          "price": 1.00,
-          "image": "images/sarma.jpg"
+          "price": 2.00,
+          "image": "images/Sarma.jpg"
         },
         {
-          "name": "Biber Dolması",
+          "name": "Biber Dolması - 1 Stück",
           "desc": "Gefüllte Paprika mit Reis & feinen orientalischen Gewürzen.",
-          "price": 5.00,
-          "image": "images/biber-dolmasi.jpg"
+          "price": 1.50,
+          "image": "images/Biber Dolmasi.jpg"
         },
         {
           "name": "Börek",
           "desc": "Goldener Blätterteig, herzhaft gefüllt & frisch gebacken.",
+          "price": 2.00,
+          "image": "images/Borek.jpg"
+        },
+        {
+          "name": "Kalem Börek",
+          "desc": "Knusprig frittierte Teigrollen mit pikanter Schafskäse-Füllung.",
+          "price": 1.50,
+          "image": "images/Kalem Borek.jpg"
+        },
+         {
+          "name": "Kısır",
+          "desc": "Frischer Bulgursalat mit Tomatenmark, Petersilie & Granatapfelsirup.",
+          "price": 1.50,
+          "image": "images/Kisir.jpg"
+        },
+        {
+          "name": "Hähnchen-Joghurt-Salat",
+          "desc": "Cremiger Joghurt-Salat mit zartem Hähnchenbrustfilet und Walnüssen.",
           "price": 5.00,
-          "image": "images/boerek.jpg"
+          "image": "images/Tavuklu yogurtlu salata.jpg"
+        },
+        {
+          "name": "Grüner Linsensalat",
+          "desc": "Erfrischender grüner Linsensalat mit feinem Gemüse und Zitronen-Dressing",
+          "price": 5.00,
+          "image": "images/Yesil mercimek salatasi.jpg"
         }
       ]
     },
@@ -101,26 +131,32 @@
         {
           "name": "Baklava",
           "desc": "Knuspriger Blätterteig mit Nüssen, getränkt in feinem Zuckersirup.",
+          "price": 2.00,
+          "image": "images/Baklava.jpg"
+        },
+        {
+          "name": "Köstebek Tatlısı",
+          "desc": "Saftiger Schokoladenkuchen mit leichter Sahnecreme und Bananen.",
           "price": 5.00,
-          "image": "images/baklava.jpg"
+          "image": "images/Kostebek pastasi.jpg"
         },
         {
           "name": "Mini Cheesecake",
           "desc": "Cremiger Käsekuchen im Miniformat – luftig und nicht zu süß.",
           "price": 5.00,
-          "image": "images/mini-cheesecake.jpg"
+          "image": "images/Mini cheesecake.jpg"
         },
         {
           "name": "Tiramisu",
           "desc": "Klassisches italienisches Dessert mit Espresso & Mascarpone.",
           "price": 5.00,
-          "image": "images/tiramisu.jpg"
+          "image": "images/Tiramisu.jpg"
         },
         {
           "name": "Halka Tatlısı",
           "desc": "Goldene, in Sirup getränkte Teigringe – außen knusprig, innen weich.",
-          "price": 5.00,
-          "image": "images/halka-tatlisi.jpg"
+          "price": 3.00,
+          "image": "images/Halka tatlisi.jpg"
         }
       ]
     },
@@ -131,28 +167,52 @@
       "subtitle": "Erfrischend gekühlt – für jeden Geschmack",
       "items": [
         {
-          "name": "Spezi",
+          "name": "Paulaner Spezi",
           "desc": "Erfrischende Cola-Orangen-Mischung, eiskalt serviert.",
           "price": 2.50,
-          "image": "images/spezi.jpg"
+          "image": "images/Spezi.jpg"
+        },
+        {
+          "name": "Paulaner Cola",
+          "desc": "Erfrischende Cola mit dem einzigartigen Paulaner-Geschmack, eiskalt serviert",
+          "price": 2.50,
+          "image": "images/Paulana cola.jpg"
+        },
+        {
+          "name": "Paulaner Limo",
+          "desc": "Fruchtig-frische Orangenlimonade für puren Genuss, eiskalt serviert",
+          "price": 2.50,
+          "image": "images/Paulaner limo.jpg"
         },
         {
           "name": "Soda",
           "desc": "Spritziges Mineralwasser mit Kohlensäure.",
           "price": 2.50,
-          "image": "images/soda.jpg"
+          "image": "images/Soda.jpg"
         },
         {
           "name": "Ayran",
           "desc": "Traditionelles türkisches Joghurtgetränk – cremig & gut gekühlt.",
           "price": 2.00,
-          "image": "images/ayran.jpg"
+          "image": "images/Ayran.jpg"
         },
         {
           "name": "Redbull",
           "desc": "Energy-Drink, eiskalt serviert – verleiht Flügel.",
           "price": 3.00,
-          "image": "images/redbull.jpg"
+          "image": "images/Redbull.jpg"
+        },
+        {
+          "name": "Trinkwasser",
+          "desc": "Erfrischendes stilles Mineralwasser.",
+          "price": 2.00,
+          "image": "images/Trinkwasser.jpg"
+        },
+        {
+          "name": "Çay",
+          "desc": "Traditionell aufgebrühter, kräftiger Schwarztee, heiß serviert.",
+          "price": 1.00,
+          "image": "images/Cay.jpg"
         }
       ]
     }
