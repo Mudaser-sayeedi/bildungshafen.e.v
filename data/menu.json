@@ -19,13 +19,8 @@
       "subtitle": "",
       "items": [
         {
-<<<<<<< HEAD
           "name": "Köfte Ekmek",
           "desc": "Saftige Hacksteak-Köfte mit frischem Gemüse im weichen Burgerbrötchen.",
-=======
-          "name": "Köfte Burger",
-          "desc": "",
->>>>>>> 31d565c2b79706a41d2f837670b220cc34024b12
           "price": 8.00,
           "image": "images/Köfte Burger.jpg"
         },
